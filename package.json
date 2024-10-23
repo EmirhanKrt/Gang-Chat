@@ -1,0 +1,10 @@
+{
+  "name": "gang-chat",
+  "version": "1.0.0",
+  "description": "Gang Chat is an open-source communication platform designed for gamers to form Gangs and interact within Hangouts.",
+  "main": "",
+  "keywords": [],
+  "author": "Emirhan Kurt",
+  "license": "MIT",
+  "dependencies": {}
+}
